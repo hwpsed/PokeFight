@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "654733102961",
+    "firebase_url": "https://poke-31d84.firebaseio.com",
+    "project_id": "poke-31d84",
+    "storage_bucket": "poke-31d84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654733102961:android:e5d3dbc4a764df86b070d0",
+        "android_client_info": {
+          "package_name": "com.ltproduction.pokefight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654733102961-k02c8if8l20i9utq7k81ubojkcj72ddj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtpENUnBaGaj9roJBbz_1K3yrT3jKTxgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654733102961-k02c8if8l20i9utq7k81ubojkcj72ddj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
