@@ -6,12 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/LoadingScene.unity
-    guid: 9379aabd88ed60c458fe967399ef770d
-  - enabled: 1
     path: Assets/Scenes/MenuScene.unity
     guid: 3220dc9233f64954ba2c96e96dd19811
   - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: 9379aabd88ed60c458fe967399ef770d
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2dd79d369a0d23c4c847356929d6e68d
+  - enabled: 1
+    path: Assets/Scenes/CatchPokemonScene.unity
+    guid: 30c80f04e602f8144934b8f6ac2d3d80
   m_configObjects: {}

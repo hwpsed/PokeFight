@@ -11,7 +11,7 @@ public class GameManager : MonoBehaviour
     {
         instance = this;
 
-        SceneManager.LoadSceneAsync((int)SceneIndexes.TITLE_SCREEN, LoadSceneMode.Additive);
+        //SceneManager.LoadSceneAsync((int)SceneIndexes.TITLE_SCREEN, LoadSceneMode.Additive);
     }
 
     public void LoadGame()
